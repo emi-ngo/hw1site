@@ -8,7 +8,7 @@ links:
   - label: GitHub
     url: "https://github.com/emi-ngo"
 output:
-  postcards::onofre
+  html_document
 ---
  
 I am an undergraduate student at University of Texas at Austin. I am an astronomy major also pursuing the Statistics & Data Science minor and Computation & Programming Certificate. In my free time, I enjoy listening to music, collecting zines, and watching movies.
